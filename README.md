@@ -10,3 +10,4 @@ https://github.com/firstcontributions/first-contributions
 # resources
 
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
+https://missing.csail.mit.edu/2020/version-control/
