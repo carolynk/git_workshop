@@ -13,9 +13,11 @@ copy commands from bash_profile_example to your .bash_profile file (in your ~ di
 and download the following
 
 **autocomplete git commands**
+
 https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
 
 **show repo status like branch in prompt**
+
 https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh
 
 
