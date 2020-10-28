@@ -42,5 +42,5 @@ https://missing.csail.mit.edu/2020/version-control/
 
 http://gitready.com
 
-### commit styleguide
+### commit message styleguide
 http://udacity.github.io/git-styleguide/
