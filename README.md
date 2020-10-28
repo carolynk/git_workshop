@@ -7,12 +7,19 @@ https://git-scm.com/downloads
 # learn to contribute
 https://github.com/firstcontributions/first-contributions
 
-# config
-### autocomplete git commands
+# bash_profile_example
+copy commands from bash_profile_example to your .bash_profile file (in your ~ directory)
+
+and download the following
+
+**autocomplete git commands**
 https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
 
-### show repo status like branch in prompt
+***show repo status like branch in prompt***
 https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh
+
+
+# config
 
 ### set up your favorite editor to handle commits and diffs
 git config --global core.editor "subl -n -w"
