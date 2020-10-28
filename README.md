@@ -38,6 +38,10 @@ https://blog.nilbus.com/take-the-pain-out-of-git-conflict-resolution-use-diff3/
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
 
 ### learn more
+https://git-scm.com/doc
+
+https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh
+
 https://missing.csail.mit.edu/2020/version-control/
 
 http://gitready.com
