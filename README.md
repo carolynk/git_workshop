@@ -15,7 +15,7 @@ and download the following
 **autocomplete git commands**
 https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
 
-***show repo status like branch in prompt***
+**show repo status like branch in prompt**
 https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh
 
 
