@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.s
 git config --global core.editor "subl -n -w"
 https://docs.github.com/en/free-pro-team@latest/github/using-git/associating-text-editors-with-git
 
-## set up diff3
+### set up diff3
 git config --global merge.conflictstyle diff3
 https://blog.nilbus.com/take-the-pain-out-of-git-conflict-resolution-use-diff3/
 
