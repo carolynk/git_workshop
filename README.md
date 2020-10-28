@@ -23,9 +23,12 @@ git config --global merge.conflictstyle diff3
 https://blog.nilbus.com/take-the-pain-out-of-git-conflict-resolution-use-diff3/
 
 # resources
-
+### github cheatsheet
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
 
+### learn more
 https://missing.csail.mit.edu/2020/version-control/
-
 http://gitready.com
+
+### commit styleguide
+http://udacity.github.io/git-styleguide/
