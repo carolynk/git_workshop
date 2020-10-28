@@ -7,6 +7,9 @@ https://git-scm.com/downloads
 # learn to contribute
 https://github.com/firstcontributions/first-contributions
 
+# features
+https://blog.nilbus.com/take-the-pain-out-of-git-conflict-resolution-use-diff3/
+
 # resources
 
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
