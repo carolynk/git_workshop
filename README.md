@@ -8,13 +8,13 @@ https://git-scm.com/downloads
 https://github.com/firstcontributions/first-contributions
 
 # config
-## autocomplete git commands
+### autocomplete git commands
 https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
 
-## show repo status like branch in prompt
+### show repo status like branch in prompt
 https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh
 
-## set up your favorite editor to handle commits and diffs
+### set up your favorite editor to handle commits and diffs
 git config --global core.editor "subl -n -w"
 https://docs.github.com/en/free-pro-team@latest/github/using-git/associating-text-editors-with-git
 
